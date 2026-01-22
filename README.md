@@ -56,5 +56,5 @@ A visualização final dos dados foi apresentada em um **dashboard no Excel**, c
 LINK EXCEL DOS DADOS
 https://1drv.ms/x/s!AubSgP7zooeytgq8HzdWNPLhf_63?e=vpvmkb
 
-DASHBOARD INSPIRAÇÃO PROFESSOR FELIPE
+DASHBOARD PROFESSOR FELIPE
 https://1drv.ms/x/s!AubSgP7zooeytg0f4SrLIS5snkqW?e=0s9oGb
