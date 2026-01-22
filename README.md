@@ -1,6 +1,6 @@
 #Dashboard de Vendas – Excel (XBOX)
 
-## 📌 Entendendo o Desafio
+## Entendendo o Desafio
 O objetivo deste desafio é criar um **dashboard de vendas no Excel**, com foco na **organização, análise e visualização de dados**.  
 A proposta é transformar **dados brutos** em **informações visuais claras e úteis**, permitindo uma análise eficaz do desempenho de vendas e apoiando a **tomada de decisões baseada em dados**.
 
@@ -53,4 +53,8 @@ A visualização final dos dados foi apresentada em um **dashboard no Excel**, c
 
 > Obs: O layout final do dashboard segue o modelo apresentado pelo professor **Felipe**, utilizado como referência visual.
 
+LINK EXCEL DOS DADOS
+https://1drv.ms/x/s!AubSgP7zooeytgq8HzdWNPLhf_63?e=vpvmkb
 
+DASHBOARD INSPIRAÇÃO PROFESSOR FELIPE
+https://1drv.ms/x/s!AubSgP7zooeytg0f4SrLIS5snkqW?e=0s9oGb
